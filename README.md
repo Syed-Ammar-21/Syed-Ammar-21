@@ -36,7 +36,21 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Ammar-21&show_icons=true&theme=dark)
+
+
+## Technologies & Tools  
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+
+## Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=Syed-Ammar-21&color=blue)
+
+
 
 ⭐ **Star my repositories** if you find them useful!  
