@@ -27,7 +27,7 @@
 ---
 
 ## Resume & Contact
-📄 **[Download My CV](https://github.com/Syed-Ammar-21/SyedAmmar_Resume.pdf)**  
+📄 **[Download My CV](https://github.com/Syed-Ammar-21/Syed-Ammar-21/raw/main/SyedAmmar_Resume.pdf)**  
 
 📫 **Let's Connect:**  
 - **LinkedIn:** [Syed Ammar Zulfiqar](https://linkedin.com/in/syed-ammar-5167a42b1)  
