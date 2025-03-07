@@ -10,7 +10,7 @@
 ---
 
 ## Featured Projects
-### 🛠 [**Digital Tachometer**](https://github.com/Syed-Ammar-21/Digital-Tachometer)  
+### 🛠 [**Digital Tachometer**](https://github.com/Syed-Ammar-21/Digital_Tachometer)  
 - Measures rotational speed using **ATmega32** & **IR Sensor**  
 - Real-time RPM calculation displayed on **16x2 LCD**  
 - Simulated in **Proteus** with embedded C programming  
