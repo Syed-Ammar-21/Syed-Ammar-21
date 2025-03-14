@@ -1,11 +1,10 @@
 # Hi, I'm Syed Ammar. 👋 
- Computer Engineering Student | Embedded Systems & Networking Enthusiast | Full Stack Web Developer  
+ Computer Engineering Student | Embedded Systems & Networking Enthusiast | Full Stack Web Developer.  
 
 ## Tech Stack
 - **Embedded Systems:** AVR Studio 4, Proteus, ATmega32, Microcontroller Programming.  
 - **Networking:** Cisco Packet Tracer, VLAN, Routing, Cisco 2911 Routers, Layer 3 Switches.
-- **Programming Languages:** C, C++, Java, Python, HTML, CSS, JavaScript.  
-- **Tools:** Git, GitHub, VS Code, Overleaf.  
+- **Programming Languages:** C, C++, Java, Python, HTML, CSS, JavaScript. 
 
 ---
 
@@ -46,6 +45,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+
 
 ## Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=Syed-Ammar-21&color=blue)
