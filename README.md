@@ -1,5 +1,5 @@
 # Hi, I'm Syed Ammar. 👋 
- Computer Engineering Student | Embedded Systems & Networking Enthusiast | Full Stack Web Developer.  
+ Computer Engineering Student | Operating Systems & Networking Enthusiast | Full Stack Web Developer.  
 
 ## Tech Stack
 - **Embedded Systems:** AVR Studio 4, Proteus, ATmega32, Microcontroller Programming.  
@@ -21,7 +21,12 @@
 
 ### 🏦 [**Bank Management System**](https://github.com/Syed-Ammar-21/Bank_Management)  
 - Developed in **Java (OOP, Swing, NetBeans)**  
-- Features **authentication, role-based access, and GUI** for seamless banking operations.  
+- Features **authentication, role-based access, and GUI** for seamless banking operations.
+
+### 🖥️ [**Operating System Simulation**](https://github.com/Syed-Ammar-21/Operating_System_Simulation)
+- Built a command-line OS simulator using **C++** in a **Linux** environment.
+- Simulates multitasking, process states, and dynamic memory management.
+- Integrated mini tools: Tic Tac Toe, Notepad, Calendar, and file operations.
 
 ---
 
