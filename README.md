@@ -1,5 +1,5 @@
 # Hi, I'm Syed Ammar. 👋 
- Computer Engineer | Operating Systems & Networking Enthusiast | Full Stack Web Developer.  
+ Computer Engineer | Operating Systems & Networking Enthusiast | MERN Stack Developer.  
 
 ## Tech Stack
 - **Embedded Systems:** AVR Studio 4, Proteus, ATmega32, Microcontroller Programming.  
