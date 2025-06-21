@@ -45,23 +45,21 @@
 ## GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Ammar-21&show_icons=true&theme=dark)
 
-
 ## Technologies & Tools  
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+<!-- Row 1 -->
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+<!-- Row 2 -->
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+<!-- Row 3 -->
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+<!-- Row 4 -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-
-
-
-
 
 ## Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=Syed-Ammar-21&color=blue)
