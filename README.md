@@ -4,8 +4,10 @@
 ## Tech Stack
 - **Embedded Systems:** AVR Studio 4, Proteus, ATmega32, Microcontroller Programming.  
 - **Networking:** Cisco Packet Tracer, VLAN, Routing, Cisco 2911 Routers, Layer 3 Switches.
-- **Operatin Systems:** C++, Linux Terminal, Shell Scripting, Process & Memory Management.
-- **Programming Languages:** C, C++, Java, Python, HTML, CSS, JavaScript. 
+- **Operating Systems:** C++, Linux Terminal, Shell Scripting, Process & Memory Management.
+- **Programming Languages:** C, C++, Java, Python, JavaScript.
+- **Web Development:** HTML, CSS.
+- **Frameworks,Libraries & Databases,Storage:** React.js, Node.js, Express.js, EJS, PostgreSQL, JSON File Storage.
 
 ---
 
@@ -48,10 +50,16 @@
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+
+
 
 
 
