@@ -4,10 +4,8 @@
 ## Tech Stack
 - **Embedded Systems:** AVR Studio 4, Proteus, ATmega32, Microcontroller Programming.  
 - **Networking:** Cisco Packet Tracer, VLAN, Routing, Cisco 2911 Routers, Layer 3 Switches.
-- **Operating Systems:** C++, Linux Terminal, Shell Scripting, Process & Memory Management.
+- **Operating Systems:** Linux Terminal, Shell Scripting, Process & Memory Management.
 - **Programming Languages:** C, C++, Java, Python, JavaScript.
-- **Web Development:** HTML, CSS.
-- **Frameworks,Libraries & Databases,Storage:** React.js, Node.js, Express.js, EJS, PostgreSQL, JSON File Storage.
 
 ---
 
