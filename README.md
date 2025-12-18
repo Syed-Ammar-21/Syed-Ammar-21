@@ -28,6 +28,16 @@ Computer Engineer | Full-Stack Developer | AI/ML | Networking | Linux
 - Developed in **Java (OOP, Swing, NetBeans)**  
 - Features **authentication, role-based access, and GUI** for seamless banking operations.
 
+### 📚  [**Stacklet**](https://github.com/Syed-Ammar-21/STACKLET)  
+- Full-stack web application to manage your personal book collection. 
+- Built with **React 18**, **TypeScript**, and **Vite.**  
+- Backend using **Supabase** (PostgreSQL + Auth).  
+- Features include:
+  - Add, edit, delete, and view books.
+  - Search, filter, and sorting functions.
+  - User authentication with email and Google OAuth.
+  - Responsive UI built with Tailwind CSS & Radix UI. 
+
 ### 🖥️ [**Operating System Simulation**](https://github.com/Syed-Ammar-21/Operating_System_Simulation)
 - Built a command-line OS simulator using **C++** in a **Linux** environment.
 - Simulates multitasking, process states, and dynamic memory management.
