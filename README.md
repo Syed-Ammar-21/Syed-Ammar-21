@@ -11,10 +11,13 @@ Computer Engineer | Full-Stack Developer | AI/ML | Networking | Linux
 ---
 
 ## Featured Projects
-### 🛠 [**Digital Tachometer**](https://github.com/Syed-Ammar-21/Digital_Tachometer)  
-- Measures rotational speed using **ATmega32** & **IR Sensor.**  
-- Real-time RPM calculation displayed on **16x2 LCD.**  
-- Simulated in **Proteus** with embedded C programming.  
+### 🛠 [**DiabAI**](https://github.com/Syed-Ammar-21/DiabAI)  
+- Machine learning–based system for early diabetes risk prediction using clinical data. 
+- Built with Python, Scikit-learn, and Streamlit.  
+- Applied feature engineering to improve prediction quality.  
+- Trained a Random Forest model with hyperparameter tuning.  
+- Achieved high Recall to reduce missed positive cases.  
+- Added prediction explainability using SHAP and permutation importance.  
 
 ### 🌐 [**University Campus Network**](https://github.com/Syed-Ammar-21/Campus_Network)  
 - Designed a **scalable network** with VLAN segmentation.  
