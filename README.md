@@ -11,7 +11,7 @@ Computer Engineer | Full-Stack Developer | AI/ML | Networking | Linux
 ---
 
 ## Featured Projects
-### 🛠 [**DiabAI**](https://github.com/Syed-Ammar-21/DiabAI)  
+### 🧠 [**DiabAI**](https://github.com/Syed-Ammar-21/DiabAI)  
 - Machine learning–based system for early diabetes risk prediction using clinical data. 
 - Built with Python, Scikit-learn, and Streamlit.  
 - Applied feature engineering to improve prediction quality.  
