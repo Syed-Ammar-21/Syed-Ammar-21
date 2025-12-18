@@ -1,7 +1,8 @@
 # Hi, I'm Syed Ammar. 👋 
-Computer Engineer | Full-Stack Developer | Networking & Linux 
+Computer Engineer | Full-Stack Developer | AI/ML | Networking | Linux 
 
 ## Tech Stack
+- **Applied Machine Learning:** Python, NumPy, Pandas, Scikit-learn, Random Forest, Explainable AI (SHAP), ROC-AUC.
 - **Embedded Systems:** AVR Studio 4, Proteus, ATmega32, Microcontroller Programming.  
 - **Networking:** Cisco Packet Tracer, VLAN, Routing, Cisco 2911 Routers, Layer 3 Switches.
 - **Operating Systems:** Linux Terminal, Shell Scripting, Process & Memory Management.
