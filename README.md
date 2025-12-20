@@ -46,7 +46,7 @@ Computer Engineer | Full-Stack Developer | AI/ML | Networking | Linux
 ---
 
 ## Resume & Contact
-📄 **[Download My CV](https://github.com/Syed-Ammar-21/My_Resume/blob/main/My_Resume.pdf)**  
+📄 **[Download My CV](https://github.com/Syed-Ammar-21/My_Resume/blob/main/SyedAmmar_Resume.pdf)**  
 
 📫 **Let's Connect:**  
 - **LinkedIn:** [Syed Ammar Zulfiqar](https://linkedin.com/in/syed-ammar-5167a42b1)  
