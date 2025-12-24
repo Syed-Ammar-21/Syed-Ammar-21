@@ -54,9 +54,6 @@ Computer Engineer | Full-Stack Developer | AI/ML | Networking | Linux
 
 ---
 
-## GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Ammar-21&show_icons=true&theme=dark)
-
 ## Technologies & Tools  
 <!-- Row 1 -->
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
