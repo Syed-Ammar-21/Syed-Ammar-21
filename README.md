@@ -1,5 +1,5 @@
 # Hi, I'm Syed Ammar. 👋 
-Data Engineer | Full-Stack Developer | AI/ML | ISO 27001 Certified  | Networking | Linux
+Computer Engineer | Full-Stack Developer | AI/ML | ISO 27001 Certified  | Networking | Linux
 
 ## Tech Stack
 - **Applied Machine Learning:** Python, NumPy, Pandas, Scikit-learn, Random Forest, Explainable AI (SHAP), ROC-AUC.
@@ -11,13 +11,14 @@ Data Engineer | Full-Stack Developer | AI/ML | ISO 27001 Certified  | Networking
 ---
 
 ## Featured Projects
-### 🧠 [**DiabAI**](https://github.com/Syed-Ammar-21/DiabAI)  
+### 🧠 [**DiabAI**](https://github.com/Syed-Ammar-21/Diabetes-Prediction-main)
 - Machine learning–based system for early diabetes risk prediction using clinical data. 
 - Built with Python, Scikit-learn, and Streamlit.  
 - Applied feature engineering to improve prediction quality.  
 - Trained a Random Forest model with hyperparameter tuning.  
 - Achieved high Recall to reduce missed positive cases.  
-- Added prediction explainability using SHAP and permutation importance.  
+- Added prediction explainability using SHAP and permutation importance.
+- Deployed on railway.
 
 ### 🌐 [**University Campus Network**](https://github.com/Syed-Ammar-21/Campus_Network)  
 - Designed a **scalable network** with VLAN segmentation.  
