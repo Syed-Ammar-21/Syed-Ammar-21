@@ -36,7 +36,8 @@ Computer Engineer | Full-Stack Developer | AI/ML | Networking | Linux
   - Add, edit, delete, and view books.
   - Search, filter, and sorting functions.
   - User authentication with email and Google OAuth.
-  - Responsive UI built with Tailwind CSS & Radix UI. 
+  - Responsive UI built with Tailwind CSS & Radix UI.
+  - Hosted on Railway with a continuous deployment pipeline for seamless production updates.
 
 ### 🖥️ [**Operating System Simulation**](https://github.com/Syed-Ammar-21/Operating_System_Simulation)
 - Built a command-line OS simulator using **C++** in a **Linux** environment.
