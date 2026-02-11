@@ -1,5 +1,5 @@
 # Hi, I'm Syed Ammar. 👋 
-Computer Engineer | Full-Stack Developer | AI/ML | Networking | Linux 
+Data Engineer | Full-Stack Developer | AI/ML | ISO 27001 Certified  | Networking | Linux
 
 ## Tech Stack
 - **Applied Machine Learning:** Python, NumPy, Pandas, Scikit-learn, Random Forest, Explainable AI (SHAP), ROC-AUC.
