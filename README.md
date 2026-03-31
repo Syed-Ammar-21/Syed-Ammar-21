@@ -1,7 +1,6 @@
 # Hi, I'm Syed Ammar 👋
 
-**Computer Engineer · Full-Stack Developer · SQA Engineer** 
-ISO 27001 Certified | FAST NUCES 
+Computer Engineer · Full-Stack Dev · SQA | ISO 27001 Certified · FAST NUCES
 
 > I build software, audit it, and now I'm learning to secure it.
 > Stacking skills across development, quality assurance, and cloud security — one discipline at a time.
