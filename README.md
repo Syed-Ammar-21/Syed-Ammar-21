@@ -56,19 +56,19 @@ Java OOP application with Swing GUI.
 
 ## 🛠️ Tech Stack
 
-**SQA & Testing**
+**SQA & Testing:**
 Jira · Postman · Chrome DevTools · Black-Box Testing · BVA · Manual Testing · API Security Testing
 
-**Machine Learning**
+**Machine Learning:**
 Python · Scikit-learn · Pandas · NumPy · SHAP · Random Forest · ROC-AUC
 
-**Full-Stack**
+**Full-Stack:**
 React · TypeScript · JavaScript · Node.js · PostgreSQL · Supabase · HTML · CSS
 
-**Systems & Networking**
+**Systems & Networking:**
 C · Java · Linux · Shell Scripting · Cisco Packet Tracer · VLAN · DHCP
 
-**DevOps**
+**DevOps:**
 GitHub Actions · Railway · CI/CD Pipelines
 
 ---
