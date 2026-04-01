@@ -1,10 +1,8 @@
-# Hi, I'm Syed Ammar 👋
+# Hi, I'm Syed Ammar Zulfiqar👋
 
-Computer Engineer · Full-Stack Dev · SQA | ISO 27001 Certified · FAST NUCES
-
-> I build software, audit it, and now I'm learning to secure it.
-> Stacking skills across development, quality assurance, and cloud security — one discipline at a time.
-> Currently: AWS Cloud Security (Solutions Architect track)
+- > I build software, audit it, and now I'm learning to secure it.
+- > Stacking skills across development, quality assurance, and cloud security — one discipline at a time.
+- > Currently: AWS Cloud Security (Solutions Architect track).
 
 ---
 
