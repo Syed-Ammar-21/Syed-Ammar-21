@@ -12,15 +12,15 @@
 Designed and audited a healthcare ML application end-to-end from model training to formal SQA release.
 
 - 18 test cases · 5 user stories · Full Jira sprint cycle
-- Discovered and resolved 2 high-priority defects
+- Discovered and resolved 2 high-priority defects.
 - **DS-25:** System accepted medically impossible inputs
-  (Glucose = 0, Age = 0) — skewing clinical predictions
+  (Glucose = 0, Age = 0) — skewing clinical predictions.
 - **DS-26:** UI displayed "Diabetic" at 35% probability —
-  frontend/backend threshold mismatch
-- Methodology: BVA, Integration Testing, SHAP 
+  frontend/backend threshold mismatch.
+- Methodology: BVA, Integration Testing, SHAP. 
   explainability verification, API security (CORS/XSRF),
-  CI/CD pipeline verification
-- Release formally tagged: v1.0-Quality-Audit · 29 March 2026
+  CI/CD pipeline verification.
+- Release formally tagged: v1.0-Quality-Audit · 29 March 2026.
 
 📄 [View STP](https://github.com/Syed-Ammar-21/DiabAI-SQA-Audit/blob/main/docs/Diab_AI_SQA_Test_Plan.pdf) · [View TCS](https://github.com/Syed-Ammar-21/DiabAI-SQA-Audit/blob/main/docs/Diab_AI_SQA_Test_Case_Suite.pdf) · [View ARS](https://github.com/Syed-Ammar-21/DiabAI-SQA-Audit/blob/main/docs/Diab_AI_SQA_Audit_Release_Report.pdf)
   
@@ -30,9 +30,9 @@ Designed and audited a healthcare ML application end-to-end from model training 
 
 ### 🧠 [DiabAI — Diabetes Prediction System](https://github.com/Syed-Ammar-21/Diabetes-Prediction-main)
 ML application predicting diabetes risk from clinical data.
-- Random Forest classifier with SHAP explainability
-- Deployed via Railway + GitHub Actions CI/CD
-- Formally audited — see SQA repo above
+- Random Forest classifier with SHAP explainability.
+- Deployed via Railway + GitHub Actions CI/CD.
+- Formally audited — see SQA repo above.
 
 ### 📚 [Stacklet](https://github.com/Syed-Ammar-21/STACKLET)
 Full-stack book collection manager.
@@ -57,20 +57,16 @@ Java OOP application with Swing GUI.
 ## 🛠️ Tech Stack
 
 **SQA & Testing**
-Jira · Postman · Chrome DevTools · Black-Box Testing ·
-BVA · Manual Testing · API Security Testing
+Jira · Postman · Chrome DevTools · Black-Box Testing · BVA · Manual Testing · API Security Testing
 
 **Machine Learning**
-Python · Scikit-learn · Pandas · NumPy · SHAP · 
-Random Forest · ROC-AUC
+Python · Scikit-learn · Pandas · NumPy · SHAP · Random Forest · ROC-AUC
 
 **Full-Stack**
-React · TypeScript · JavaScript · Node.js · 
-PostgreSQL · Supabase · HTML · CSS
+React · TypeScript · JavaScript · Node.js · PostgreSQL · Supabase · HTML · CSS
 
 **Systems & Networking**
-C · Java · Linux · Shell Scripting ·
-Cisco Packet Tracer · VLAN · DHCP
+C · Java · Linux · Shell Scripting · Cisco Packet Tracer · VLAN · DHCP
 
 **DevOps**
 GitHub Actions · Railway · CI/CD Pipelines
@@ -81,7 +77,7 @@ GitHub Actions · Railway · CI/CD Pipelines
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ammar-zulfiqar-5167a42b1/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ammarzulfiqar976@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-4CAF50?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/Syed-Ammar-21/My_Resume/blob/main/SyedAmmar_Resume.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-4CAF50?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/Syed-Ammar-21/My_Resume/blob/main/SYED_AMMAR_RESUME.pdf)
 
 ---
 
