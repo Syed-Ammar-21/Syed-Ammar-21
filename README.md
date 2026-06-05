@@ -29,28 +29,34 @@ Designed and audited a healthcare ML application end-to-end from model training 
 ## 🚀 Featured Projects
 
 ### 🧠 [DiabAI — Diabetes Prediction System](https://github.com/Syed-Ammar-21/Diabetes-Prediction-main)
-ML application predicting diabetes risk from clinical data.
-- Random Forest classifier with SHAP explainability.
-- Deployed via Railway + GitHub Actions CI/CD.
-- Formally audited — see SQA repo above.
+**Description:** Machine learning application predicting diabetes risk from clinical data.
+* **Key Features:** Uses a Random Forest classifier with SHAP explainability. Formally audited for quality assurance (see DiabAI-SQA repo).
+* **Tech Stack:** Python · Scikit-Learn · SHAP · Railway · GitHub Actions CI/CD
 
 ### 📚 [Stacklet](https://github.com/Syed-Ammar-21/STACKLET)
-Full-stack book collection manager.
-- React 18 · TypeScript · Supabase (PostgreSQL + Auth)
-- Google OAuth · Tailwind CSS · Railway deployment
+**Description:** Full-stack book collection manager with seamless user authentication.
+* **Key Features:** Integrated Google OAuth and full CRUD operations for personal library management.
+* **Tech Stack:** React 18 · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind CSS · Railway
+
+### 🔋 [Smart Battery Management System Database](https://github.com/Syed-Ammar-21/Smart-Battery-Management-System-Database-Backend)
+* **Description:** Relational database backend designed to securely monitor, analyze, and manage real-time lithium-ion battery telemetry.
+* **Key Features:** Features real-time telemetry logging, granular Role-Based Access Control (RBAC), and automated multi-tiered backup policies (Full/Differential/Log) for high-availability disaster recovery.
+* **Tech Stack:** Supabase PostgreSQL · Relational Schema Design · Database Security · Indexing
 
 ### 🌐 [University Campus Network](https://github.com/Syed-Ammar-21/Campus_Network)
-Enterprise-grade network design simulation.
-- VLAN segmentation · Cisco 2911 routers · RIP v2
-- DHCP configuration across Layer 3 switches
+* **Description:** Enterprise-grade network design simulation.
+* **Key Features:** Implemented VLAN segmentation, Cisco 2911 routers, RIP v2, and DHCP configuration across Layer 3 switches.
+* **Tech Stack:** Cisco Packet Tracer · Routing & Switching · Networking Protocols
 
 ### 🖥️ [OS Simulation](https://github.com/Syed-Ammar-21/Operating_System_Simulation)
-Command-line OS simulator in C++ on Linux.
-- Multitasking · process states · dynamic memory management
+* * **Description:** Command-line operating system simulator on Linux.
+* **Key Features:** Simulates multitasking, process states, and dynamic memory management.
+* **Tech Stack:** C++ · Linux CLI · Systems Programming
 
 ### 🏦 [Bank Management System](https://github.com/Syed-Ammar-21/Bank_Management)
-Java OOP application with Swing GUI.
-- Role-based authentication · NetBeans · full banking ops
+* **Description:** Java OOP application featuring a full banking operations ecosystem.
+* **Key Features:** Implemented role-based authentication and a clean desktop interface.
+* **Tech Stack:** Java · Java Swing GUI · NetBeans
 
 ---
 
