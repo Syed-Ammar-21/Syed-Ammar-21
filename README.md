@@ -76,8 +76,7 @@ GitHub Actions · Railway · CI/CD Pipelines
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ammar-zulfiqar-5167a42b1/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ammarzulfiqar976@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-4CAF50?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/Syed-Ammar-21/My_Resume/blob/main/SYED_AMMAR_RESUME.pdf)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ammarzulfiqar887@gmail.com)
 
 ---
 
