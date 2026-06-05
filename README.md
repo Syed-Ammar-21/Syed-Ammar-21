@@ -39,22 +39,22 @@ Designed and audited a healthcare ML application end-to-end from model training 
 * **Tech Stack:** React 18 · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind CSS · Railway
 
 ### 🔋 [Smart Battery Management System Database](https://github.com/Syed-Ammar-21/Smart-Battery-Management-System-Database-Backend)
-* **Description:** Relational database backend designed to securely monitor, analyze, and manage real-time lithium-ion battery telemetry.
+**Description:** Relational database backend designed to securely monitor, analyze, and manage real-time lithium-ion battery telemetry.
 * **Key Features:** Features real-time telemetry logging, granular Role-Based Access Control (RBAC), and automated multi-tiered backup policies (Full/Differential/Log) for high-availability disaster recovery.
 * **Tech Stack:** Supabase PostgreSQL · Relational Schema Design · Database Security · Indexing
 
 ### 🌐 [University Campus Network](https://github.com/Syed-Ammar-21/Campus_Network)
-* **Description:** Enterprise-grade network design simulation.
+**Description:** Enterprise-grade network design simulation.
 * **Key Features:** Implemented VLAN segmentation, Cisco 2911 routers, RIP v2, and DHCP configuration across Layer 3 switches.
 * **Tech Stack:** Cisco Packet Tracer · Routing & Switching · Networking Protocols
 
 ### 🖥️ [OS Simulation](https://github.com/Syed-Ammar-21/Operating_System_Simulation)
-* * **Description:** Command-line operating system simulator on Linux.
+**Description:** Command-line operating system simulator on Linux.
 * **Key Features:** Simulates multitasking, process states, and dynamic memory management.
 * **Tech Stack:** C++ · Linux CLI · Systems Programming
 
 ### 🏦 [Bank Management System](https://github.com/Syed-Ammar-21/Bank_Management)
-* **Description:** Java OOP application featuring a full banking operations ecosystem.
+**Description:** Java OOP application featuring a full banking operations ecosystem.
 * **Key Features:** Implemented role-based authentication and a clean desktop interface.
 * **Tech Stack:** Java · Java Swing GUI · NetBeans
 
