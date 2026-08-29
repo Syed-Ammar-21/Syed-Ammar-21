@@ -2,7 +2,6 @@
 
 - > **Jr. Executive Growth Data Analyst** at Jubilee Life Insurance, driving data-driven growth within the Digitalization Department.
 - > **Engineering Background:** Applying full-stack development, QA, and system design expertise to enterprise data analytics.
-- > **Certifications:** AWS Security Certified · ISO 27001 Certified.
 
 ---
 
@@ -62,6 +61,28 @@
 **Description:** Embedded rotational-speed measurement system built and simulated at the microcontroller level.
 * **Key Features:** IR sensor-based pulse counting for real-time RPM detection, AVR microcontroller firmware in C/ASM, and full circuit validation via Proteus simulation before hardware deployment.
 * **Tech Stack:** AVR Studio 4 · Proteus · Atmega32 · C / Assembly · Embedded Systems
+
+---
+
+## 📜 Certifications & Courses
+
+- **Cloud & Security:**
+Ultimate AWS Certified Solutions Architect Associate 2026 · The Complete ISO/IES 27001 Information Security Management
+
+- **Full-Stack Development:**
+The Complete Full-Stack Web Development Bootcamp · CSS, Bootstrap, JavaScript and PHP Stack Complete Course
+
+- **Data & Backend:**
+Database Foundations (SQL) · Relational Database (PostgreSQL)
+
+- **Machine Learning:**
+Fundamentals of Python Machine Learning
+
+- **Systems & Scripting:**
+Linux & Shell Scripting: Basic to Advanced
+
+- **QA & Testing:**
+Postman Student Expert · Introduction to Software Testing
 
 ---
 
