@@ -9,7 +9,7 @@
 ## 🔍 Latest Work — Final Year Project
 
 ### 🏥 [Asaan Zindagi:Smart Healthcare Queue & Appointment System](https://github.com/AmirAbbasi4923/My-Fyp)
-Cloud-native, serverless OPD management system built as my Final Year Project (BS Computer Engineering, FAST-NUCES), achieving a **25–30% reduction in patient wait times** through a custom queue engine.
+**Description:** Cloud-native, serverless OPD management system built as my Final Year Project (BS Computer Engineering, FAST-NUCES), achieving a **25–30% reduction in patient wait times** through a custom queue engine.
 
 - Designed a **Dynamic FCFS Re-indexing Algorithm** as a PostgreSQL trigger — handles patient tardiness/cancellations via stack-like positional shifting instead of static FCFS.
 - Built **real-time multi-portal sync** (Patient / Doctor / Admin) with sub-second latency using Supabase Realtime WebSockets.
