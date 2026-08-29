@@ -1,6 +1,6 @@
 # Hi, I'm Syed Ammar Zulfiqar 👋
 
-- > **Jr. Executive Growth Data Analyst** at Jubilee Life Insurance, driving data-driven growth within the Digitalization Department.
+- > **Junior Growth Data Analyst** at Jubilee Life Insurance, driving data-driven growth within the Digitalization Department.
 - > **Engineering Background:** Applying full-stack development, QA, and system design expertise to enterprise data analytics.
 
 ---
