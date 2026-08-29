@@ -1,62 +1,67 @@
-# Hi, I'm Syed Ammar Zulfiqar👋
+# Hi, I'm Syed Ammar Zulfiqar 👋
 
-- > I build software, audit it, and now I'm learning to secure it.
-- > Stacking skills across development, quality assurance, and cloud security — one discipline at a time.
-- > Currently: AWS Cloud Security (Solutions Architect track).
+- > **Jr. Executive Growth Data Analyst** at Jubilee Life Insurance, driving data-driven growth within the Digitalization Department.
+- > **Engineering Background:** Applying full-stack development, QA, and system design expertise to enterprise data analytics.
+- > **Certifications:** AWS Security Certified · ISO 27001 Certified.
 
 ---
 
-## 🔍 Latest Work — SQA Audit
+## 🔍 Latest Work — Final Year Project
 
-### [DiabAI — SQA Audit](https://github.com/Syed-Ammar-21/DiabAI-SQA-Audit)
-Designed and audited a healthcare ML application end-to-end from model training to formal SQA release.
+### 🏥 [Asaan Zindagi:Smart Healthcare Queue & Appointment System](https://github.com/AmirAbbasi4923/My-Fyp)
+Cloud-native, serverless OPD management system built as my Final Year Project (BS Computer Engineering, FAST-NUCES), achieving a **25–30% reduction in patient wait times** through a custom queue engine.
 
-- 18 test cases · 5 user stories · Full Jira sprint cycle
-- Discovered and resolved 2 high-priority defects.
-- **DS-25:** System accepted medically impossible inputs
-  (Glucose = 0, Age = 0) — skewing clinical predictions.
-- **DS-26:** UI displayed "Diabetic" at 35% probability —
-  frontend/backend threshold mismatch.
-- Methodology: BVA, Integration Testing, SHAP. 
-  explainability verification, API security (CORS/XSRF),
-  CI/CD pipeline verification.
-- Release formally tagged: v1.0-Quality-Audit · 29 March 2026.
+- Designed a **Dynamic FCFS Re-indexing Algorithm** as a PostgreSQL trigger — handles patient tardiness/cancellations via stack-like positional shifting instead of static FCFS.
+- Built **real-time multi-portal sync** (Patient / Doctor / Admin) with sub-second latency using Supabase Realtime WebSockets.
+- Implemented a **trigger-driven PL/pgSQL notification engine** — zero application-layer polling for booking, approval, and cancellation events.
+- Enforced **RBAC via PostgreSQL Row-Level Security** across all three user roles, plus database-level double-booking prevention.
+- Entire production pipeline runs on a **zero-cost stack** (Supabase + Railway + GitHub Actions), validated with a 4% Turnitin similarity score.
 
-📄 [View STP](https://github.com/Syed-Ammar-21/DiabAI-SQA-Audit/blob/main/docs/Diab_AI_SQA_Test_Plan.pdf) · [View TCS](https://github.com/Syed-Ammar-21/DiabAI-SQA-Audit/blob/main/docs/Diab_AI_SQA_Test_Case_Suite.pdf) · [View ARS](https://github.com/Syed-Ammar-21/DiabAI-SQA-Audit/blob/main/docs/Diab_AI_SQA_Audit_Release_Report.pdf)
-  
+**Tech Stack:** React.js · Vite · TypeScript · Supabase (PostgreSQL + Auth + Realtime) · PL/pgSQL Triggers · Railway · GitHub Actions CI/CD
+
 ---
 
 ## 🚀 Featured Projects
 
+### 🔋 [Smart Battery Management System Database](https://github.com/Syed-Ammar-21/Smart-Battery-Management-System-Database-Backend)
+**Description:** High-integrity PostgreSQL backend for real-time battery monitoring, fault detection, and analytics across NMC, LFP, and LTO cell chemistries.
+* **Key Features:** 18-table 3NF schema with EER specialization, automated fault detection trigger executing in under 5ms, intelligent charging-profile stored procedure, and 7 analytics queries using CTEs and window functions.
+* **Tech Stack:** PostgreSQL 15 · Supabase · PL/pgSQL · BRIN Indexing · Relational Schema Design
+
 ### 🧠 [DiabAI — Diabetes Prediction System](https://github.com/Syed-Ammar-21/Diabetes-Prediction-main)
-**Description:** Machine learning application predicting diabetes risk from clinical data.
-* **Key Features:** Uses a Random Forest classifier with SHAP explainability. Formally audited for quality assurance (see DiabAI-SQA repo).
-* **Tech Stack:** Python · Scikit-Learn · SHAP · Railway · GitHub Actions CI/CD
+**Description:** Machine learning web app predicting diabetes risk from clinical data, deployed live with a full explainability layer.
+* **Key Features:** Random Forest classifier (0.8367 ROC-AUC) tuned via Optuna, SHAP waterfall/force plots and permutation importance for model interpretability, deployed live on Railway. Formally audited for quality assurance — see the SQA Audit below.
+* **Tech Stack:** Python · Scikit-Learn · SHAP · Streamlit · Railway · GitHub Actions CI/CD
+
+### ✅ [DiabAI — SQA Audit](https://github.com/Syed-Ammar-21/DiabAI-SQA-Audit)
+**Description:** End-to-end formal quality audit of the DiabAI ML application, from model training through release sign-off.
+* **Key Features:** 18 test cases across 5 user stories tracked in Jira, 2 high-priority defects found and resolved (input validation gap, UI/model threshold mismatch), API security testing (CORS/XSRF), and a formally tagged release (v1.0-Quality-Audit).
+* **Tech Stack:** Jira · Postman · Chrome DevTools · Black-Box Testing · BVA · SHAP Verification
 
 ### 📚 [Stacklet](https://github.com/Syed-Ammar-21/STACKLET)
-**Description:** Full-stack book collection manager with seamless user authentication.
-* **Key Features:** Integrated Google OAuth and full CRUD operations for personal library management.
-* **Tech Stack:** React 18 · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind CSS · Railway
-
-### 🔋 [Smart Battery Management System Database](https://github.com/Syed-Ammar-21/Smart-Battery-Management-System-Database-Backend)
-**Description:** Relational database backend designed to securely monitor, analyze, and manage real-time lithium-ion battery telemetry.
-* **Key Features:** Features real-time telemetry logging, granular Role-Based Access Control (RBAC), and automated multi-tiered backup policies (Full/Differential/Log) for high-availability disaster recovery.
-* **Tech Stack:** Supabase PostgreSQL · Relational Schema Design · Database Security · Indexing
-
-### 🌐 [University Campus Network](https://github.com/Syed-Ammar-21/Campus_Network)
-**Description:** Enterprise-grade network design simulation.
-* **Key Features:** Implemented VLAN segmentation, Cisco 2911 routers, RIP v2, and DHCP configuration across Layer 3 switches.
-* **Tech Stack:** Cisco Packet Tracer · Routing & Switching · Networking Protocols
+**Description:** Full-stack book collection manager with seamless authentication, deployed live with a demo walkthrough.
+* **Key Features:** Full CRUD for personal library management, Email + Google OAuth via Supabase Auth, advanced search/filter/sort, fully responsive across mobile, tablet, and desktop.
+* **Tech Stack:** React 18 · TypeScript · Vite · Supabase (PostgreSQL + Auth) · Tailwind CSS · Radix UI · Railway
 
 ### 🖥️ [OS Simulation](https://github.com/Syed-Ammar-21/Operating_System_Simulation)
-**Description:** Command-line operating system simulator on Linux.
-* **Key Features:** Simulates multitasking, process states, and dynamic memory management.
-* **Tech Stack:** C++ · Linux CLI · Systems Programming
+**Description:** Linux terminal-based operating system simulator demonstrating core OS internals.
+* **Key Features:** Simulated multitasking with Ready/Running/Waiting process states, dynamic memory allocation and release handling, and a modular file-operations layer (create/delete/rename/edit).
+* **Tech Stack:** C++ · Linux CLI · Process & Memory Management · Modular Programming
 
 ### 🏦 [Bank Management System](https://github.com/Syed-Ammar-21/Bank_Management)
-**Description:** Java OOP application featuring a full banking operations ecosystem.
-* **Key Features:** Implemented role-based authentication and a clean desktop interface.
-* **Tech Stack:** Java · Java Swing GUI · NetBeans
+**Description:** Java OOP desktop application covering a full core-banking operations workflow.
+* **Key Features:** Role-based authentication, deposit/withdrawal transaction handling, chequebook requests, and loan application tracking through a Swing desktop GUI.
+* **Tech Stack:** Java · Java Swing GUI · NetBeans · Object-Oriented Design
+
+### 🌐 [University Campus Network](https://github.com/Syed-Ammar-21/Campus_Network)
+**Description:** Enterprise-grade campus network design simulated end-to-end in Cisco Packet Tracer.
+* **Key Features:** VLAN segmentation for traffic isolation, Layer 3 routing with Cisco 2911 routers and RIP v2, and automated DHCP configuration across switches.
+* **Tech Stack:** Cisco Packet Tracer · Routing & Switching · VLAN · DHCP
+
+### 🔧 [Digital Tachometer](https://github.com/Syed-Ammar-21/Digital_Tachometer)
+**Description:** Embedded rotational-speed measurement system built and simulated at the microcontroller level.
+* **Key Features:** IR sensor-based pulse counting for real-time RPM detection, AVR microcontroller firmware in C/ASM, and full circuit validation via Proteus simulation before hardware deployment.
+* **Tech Stack:** AVR Studio 4 · Proteus · Atmega32 · C / Assembly · Embedded Systems
 
 ---
 
@@ -88,7 +93,4 @@ GitHub Actions · Railway · CI/CD Pipelines
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Syed-Ammar-21&color=blue)
 
-
-
-
-⭐ **Star my repositories** if you find them useful!  
+⭐ **Star my repositories** if you find them useful!
