@@ -112,6 +112,6 @@ GitHub Actions · Railway · CI/CD Pipelines
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Syed-Ammar-21&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Syed-Ammar-21&label=Profile+Views&color=blue&style=flat-square)
 
 ⭐ **Star my repositories** if you find them useful!
